@@ -1,0 +1,32 @@
+.statsList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.statItem {
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #0056b3;
+    line-height: 1.5;
+}
+
+.statsList li:nth-child(1) {
+    color: #28a745;
+}
+
+.statsList li:nth-child(2) {
+    color: #ffc107;
+}
+
+.statsList li:nth-child(3) {
+    color: #dc3545;
+}
+
+.statsList li:nth-child(4) {
+    color: #0056b3;
+}
+
+.statsList li:nth-child(5) {
+    color: #17a2b8;
+}
